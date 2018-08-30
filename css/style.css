@@ -4,11 +4,6 @@ body {
   overflow-x: hidden;
 }
 
-.icon {
-  color: rgba(34,125,170,1);
-  
-}
-
 a {
   color: inherit;
   font-style: normal;
